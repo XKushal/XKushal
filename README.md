@@ -72,17 +72,6 @@ mission:       Build scalable systems. Solve hard problems. Ship.
 
 ---
 
-## ⬡ `> ACTIVE PROJECTS`
-
-| PROJECT | STATUS | STACK | DESCRIPTION |
-|---------|--------|-------|-------------|
-| [⚡ StrengthLens](https://github.com/XKushal/StrengthLens-web) | `ACTIVE` | Java · Spring Boot | AI-assisted strength coaching mobile app |
-| [🔀 StrengthLens Kafka](https://github.com/XKushal/mblstrengthlens-kafka) | `ACTIVE` | Java · Kafka | Distributed messaging layer for StrengthLens |
-| [🏠 StCloudAptss](https://github.com/XKushal/StCloudAptss) | `ACTIVE` | Next.js · Ract.js · Typescript · MongoDB| Rent apt and find roommates |
-| [🧠 DSA](https://github.com/XKushal/DSA) | `ONGOING` | Java | Data structures & algorithm practice vault |
-
----
-
 ## ⬡ `> NEURAL STATS`
 
 <div align="center">
