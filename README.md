@@ -76,10 +76,6 @@ mission:       Build scalable systems. Solve hard problems. Ship.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XKushal&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFD1&icon_color=00FFD1&text_color=c9d1d9&border_radius=6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XKushal&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFD1&text_color=c9d1d9&border_radius=6)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=XKushal&theme=dark&hide_border=true&background=0d1117&ring=00FFD1&fire=FF4444&currStreakLabel=00FFD1&border_radius=6)
 
 </div>
@@ -98,7 +94,7 @@ while alive:
 ```
 
 ---
-
+---
 <div align="center">
 
 ```
