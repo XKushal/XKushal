@@ -72,7 +72,7 @@ mission:       Build scalable systems. Solve hard problems. Ship.
 </div>
 
 ---
-
+<div align="center">
 ## ⬡ `> AI SUBSYSTEM :: LOADING`
 
 ```
@@ -105,7 +105,9 @@ into backend systems.
 ```
 
 > *"AI doesn't replace the engineer — it amplifies the one who knows how to wield it."*
+</div>
 
+---
 <div align="center">
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
