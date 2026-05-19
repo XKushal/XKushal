@@ -66,7 +66,7 @@ mission:       Build scalable systems. Solve hard problems. Ship.
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </div>
 
