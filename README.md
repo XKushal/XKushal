@@ -27,7 +27,6 @@ entity:        Kushal Singh
 designation:   Sr. Software Engineer
 classification: Backend Systems · Cloud-Native · Full-Stack
 sector:        Jersey City, NJ  [UTC -5]
-status:        ACTIVE — Kaiser Permanente
 uptime:        6+ years in service
 mission:       Build scalable systems. Solve hard problems. Ship.
 ```
@@ -66,53 +65,10 @@ mission:       Build scalable systems. Solve hard problems. Ship.
 **[ DATA LAYER ]**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </div>
-
----
-
-## ⬡ `> MISSION LOG :: EXPERIENCE`
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  MISSION :: KAISER PERMANENTE                                │
-│  RANK    :: Sr. Software Engineer                            │
-│  SECTOR  :: Pleasanton, CA                                   │
-│  PERIOD  :: Jul 2022 → PRESENT                               │
-├──────────────────────────────────────────────────────────────┤
-│  ▸ Engineering Quarkus & Spring Boot microservices for       │
-│    high-volume healthcare platforms                          │
-│  ▸ Commanding Azure AKS / Kubernetes deployments,           │
-│    autoscaling, and production incident response             │
-│  ▸ Architecting distributed messaging systems to             │
-│    reduce coupling and improve resiliency                    │
-└──────────────────────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────────────────────┐
-│  MISSION :: IMT INSURANCE                                    │
-│  RANK    :: Software Engineer                                │
-│  SECTOR  :: West Des Moines, IA                              │
-│  PERIOD  :: May 2021 → Apr 2022                              │
-├──────────────────────────────────────────────────────────────┤
-│  ▸ Developed policy administration, billing & reporting      │
-│    platform features                                         │
-│  ▸ Optimized SQL queries & stored procedures for             │
-│    high-performance premium calculation workflows            │
-└──────────────────────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────────────────────┐
-│  MISSION :: DELAGET LLC                                      │
-│  RANK    :: Full Stack Developer                             │
-│  SECTOR  :: St. Louis Park, MN                               │
-│  PERIOD  :: May 2019 → Apr 2020                              │
-├──────────────────────────────────────────────────────────────┤
-│  ▸ Built restaurant analytics apps with ASP.NET Core,        │
-│    REST APIs, React & TypeScript                             │
-│  ▸ Created reusable dashboard components for                 │
-│    high-volume reporting workflows                           │
-└──────────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -122,7 +78,7 @@ mission:       Build scalable systems. Solve hard problems. Ship.
 |---------|--------|-------|-------------|
 | [⚡ StrengthLens](https://github.com/XKushal/StrengthLens-web) | `ACTIVE` | Java · Spring Boot | AI-assisted strength coaching mobile app |
 | [🔀 StrengthLens Kafka](https://github.com/XKushal/mblstrengthlens-kafka) | `ACTIVE` | Java · Kafka | Distributed messaging layer for StrengthLens |
-| [🤖 WebAgentGPT](https://github.com/XKushal/WebAgentGPT) | `DEPLOYED` | JavaScript · AI | AI agent that controls your browser by instruction |
+| [🏠 StCloudAptss](https://github.com/XKushal/StCloudAptss) | `ACTIVE` | Next.js · Ract.js · Typescript · MongoDB| Rent apt and find roommates |
 | [🧠 DSA](https://github.com/XKushal/DSA) | `ONGOING` | Java | Data structures & algorithm practice vault |
 
 ---
