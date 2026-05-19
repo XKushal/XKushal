@@ -79,8 +79,8 @@ mission:       Build scalable systems. Solve hard problems. Ship.
 ![GitHub Streak](https://streak-stats.demolab.com?user=XKushal&theme=dark&hide_border=true&background=0d1117&ring=00FFD1&fire=FF4444&currStreakLabel=00FFD1&border_radius=6)
 
 </div>
----
 
+---
 ## ⬡ `> DIRECTIVES`
 
 ```python
@@ -93,7 +93,6 @@ while alive:
     connect_with_humans()   # say hi → kushalsingh.business@gmail.com
 ```
 
----
 ---
 <div align="center">
 
