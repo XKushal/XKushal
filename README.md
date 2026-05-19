@@ -72,8 +72,9 @@ mission:       Build scalable systems. Solve hard problems. Ship.
 </div>
 
 ---
-<div align="center">
 ## ⬡ `> AI SUBSYSTEM :: LOADING`
+
+<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
@@ -105,6 +106,7 @@ into backend systems.
 ```
 
 > *"AI doesn't replace the engineer — it amplifies the one who knows how to wield it."*
+
 </div>
 
 ---
@@ -112,6 +114,7 @@ into backend systems.
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
