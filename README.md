@@ -10,7 +10,7 @@
 # ⟁ KUSHAL SINGH ⟁
 ### `[ Sr. Software Engineer · System Architect · Builder ]`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Initializing+engineer+profile...;Loading+6%2B+years+of+experience...;Backend+systems+%7C+Cloud-Native+%7C+Microservices;Solving+complex+problems%2C+end-to-end.;Systems+online.+Ready.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Initializing+engineer+profile...;Loading+6%2B+years+of+experience...;Backend+systems+%7C+Cloud-Native+%7C+Microservices;Navigating+the+AI+shift...;Systems+online.+Ready.)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/⟁_PORTAL-kushal.chat-00FFD1?style=for-the-badge&logoColor=black)](https://www.kushal.chat/)
 [![LinkedIn](https://img.shields.io/badge/UPLINK-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-singh-b7358223a/)
@@ -25,8 +25,9 @@
 ```yaml
 entity:        Kushal Singh
 designation:   Sr. Software Engineer
-classification: Backend Systems · Cloud-Native · Full-Stack
+classification: Backend Systems · Cloud-Native · Full-Stack · AI-Augmented
 sector:        Jersey City, NJ  [UTC -5]
+status:        ACTIVE — Kaiser Permanente
 uptime:        6+ years in service
 mission:       Build scalable systems. Solve hard problems. Ship.
 ```
@@ -65,8 +66,52 @@ mission:       Build scalable systems. Solve hard problems. Ship.
 **[ DATA LAYER ]**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=flat-square&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+## ⬡ `> AI SUBSYSTEM :: LOADING`
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  WARNING: THE PARADIGM HAS SHIFTED. ADAPTING IN PROGRESS...  ✦  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+The age of purely hand-crafted software is evolving. AI is no longer a feature —
+it's becoming the **foundation**. I'm actively building at this intersection:
+integrating LLMs into real products, shipping AI agents, and wiring intelligence
+into backend systems.
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  MODERN AI TOOLS IN ACTIVE USE                                  │
+├─────────────────────────────────────────────────────────────────┤
+│  ◈ Claude Code ◈ ChatGPT ◈ OpenAI API ◈ Anthropic API ◈ Gemini  │
+└─────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────┐
+│  AI STACK & TOOLS                                               │
+├─────────────────────────────────────────────────────────────────┤
+│  ◈ LangChain / LangGraph   · agent orchestration & chains       │
+│  ◈ OpenAI API / Assistants · function calling, tool use         │
+│  ◈ RAG pipelines           · vector search + LLM retrieval      │
+│  ◈ Prompt Engineering      · system design for LLM behavior     │
+│  ◈ Browser Agents          · autonomous web task execution      │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+> *"AI doesn't replace the engineer — it amplifies the one who knows how to wield it."*
+
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 </div>
 
@@ -81,6 +126,7 @@ mission:       Build scalable systems. Solve hard problems. Ship.
 </div>
 
 ---
+
 ## ⬡ `> DIRECTIVES`
 
 ```python
@@ -90,10 +136,12 @@ while alive:
     lift_heavy()
     create_content()
     grow_every_day()
+    leverage_AI_as_a_force_multiplier()
     connect_with_humans()   # say hi → kushalsingh.business@gmail.com
 ```
 
 ---
+
 <div align="center">
 
 ```
