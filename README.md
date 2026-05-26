@@ -20,22 +20,6 @@
 
 ---
 
-## ⬡ `> SYSTEM IDENTITY`
-
-```yaml
-entity:        Kushal Singh
-designation:   Sr. Software Engineer
-classification: Backend Systems · Cloud-Native · Full-Stack · AI-Augmented
-sector:        Jersey City, NJ  [UTC -5]
-status:        ACTIVE — Kaiser Permanente
-uptime:        6+ years in service
-mission:       Build scalable systems. Solve hard problems. Ship.
-```
-
-> *"I take ownership and solve problems end-to-end — from architecture to deployment."*
-
----
-
 ## ⬡ `> CORE SYSTEMS`
 
 <div align="center">
@@ -129,21 +113,6 @@ into backend systems.
 ![GitHub Streak](https://streak-stats.demolab.com?user=XKushal&theme=dark&hide_border=true&background=0d1117&ring=00FFD1&fire=FF4444&currStreakLabel=00FFD1&border_radius=6)
 
 </div>
-
----
-
-## ⬡ `> DIRECTIVES`
-
-```python
-while alive:
-    build(things_that_matter)
-    stay_curious()
-    lift_heavy()
-    create_content()
-    grow_every_day()
-    leverage_AI_as_a_force_multiplier()
-    connect_with_humans()   # say hi → kushalsingh.business@gmail.com
-```
 
 ---
 
